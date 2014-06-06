@@ -1,0 +1,27 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+/* 960px Grid */
+/* Tools Variables */
+/* Indents Variables */
+/* Margin Variables */
+/* Cursor Variables */
+/* Color Variables */
+/*Hover*/
+/*avtive*/
+/* Width Variables */
+/*Fonts*/
+/*Mizins*/
+.border-box {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+/*======================= BANNER =======================*/
+.block-welcome {
+  width: 100%;
+  overflow: hidden;
+}
+.block-welcome h1 {
+  margin-bottom: 24px;
+}

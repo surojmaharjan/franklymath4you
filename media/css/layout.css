@@ -1,0 +1,65 @@
+.main-container-wrapper {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 2px;
+}
+.main-container-wrapper .main-container {
+  max-width: 61.875em;
+  margin: 0 auto;
+  background: #e8e8e8 url(../images/main-container-bg.png) repeat-x;
+  overflow: hidden;
+  padding: 0 30px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+/*======================= COL2-RIGHT-LAYOUT =======================*/
+.col2-right-layout {
+  width: 100%;
+}
+.col2-right-layout .main {
+  width: 65.80645161290323%;
+  float: left;
+}
+.col2-right-layout .main .col-main {
+  width: 100%;
+}
+.col2-right-layout .col-right {
+  width: 32.043010752688176%;
+  float: right;
+}
+
+/*======================= COL2-RIGHT-LAYOUT =======================*/
+.col1-layout {
+  width: 100%;
+}
+.col1-layout .main {
+  width: 100%;
+}
+.col1-layout .main .col-main {
+  width: 100%;
+}
+
+.home .col1-layout .main{width: 75%; margin:0 auto}
+.home .col1-layout .main .block-welcome .block-content ul{width:40%}
+.home .col1-layout .main .block-welcome .block-content .block-question{width:45%}
+.home 
+.block-welcome .block-content .img-container {
+    clear: both;
+    float: left;
+    margin-right: 9.84456%;
+    margin-top: 25px;
+    width: 40%;
+}
+.block-welcome .block-content ul.text {
+    margin-right: 0 !important;
+    margin-top: 10px;
+    width: 45% !important;
+}
+.block-welcome .block-content ul.text  li{
+    background:none;
+	margin-top:25px;
+	padding-left:0 !important
+}

@@ -1,0 +1,304 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+/* 960px Grid */
+/* Tools Variables */
+/* Indents Variables */
+/* Margin Variables */
+/* Cursor Variables */
+/* Color Variables */
+/*Hover*/
+/*avtive*/
+/* Width Variables */
+/*Fonts*/
+/*Mizins*/
+.border-box {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+/*======================= Basic HTML Tags =======================*/
+body {
+  font-size: 100%;
+  line-height: 1;
+}
+p {
+  font: 13px/21px Arial, Helvetica, sans-serif;
+  color: #474747;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'oswaldbook';
+  color: #f35723;
+  line-height: 1;
+}
+h1 {
+  font-size: 23px;
+  marign-bottom: 24px;
+}
+a {
+  text-decoration: none;
+  color: #f35723;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+  text-decoration: none;
+}
+.italic {
+  font-size: 10px !important;
+  font-style: italic;
+}
+/*======================= MAIN WRAPPER, PAGE, MAIN-CONTAINER-WRAPPER AND MAIN CONTAINER =======================*/
+.main-wrapper {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+.page {
+  width: 100%;
+  overflow: hidden;
+  background: #f0f0f0 url(../images/body-bg.png) repeat-x;
+}
+.main-container-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+.main-container {
+  max-width: 61.875em;
+  margin: 30px auto 40px auto;
+  overflow: hidden;
+}
+/*======================= HEADER NVIGATION AND FOOTER WRAPPER =======================*/
+.header-wrapper,
+.footer-wrapper,
+.navigation-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+.navigation-wrapper {
+  background: #f5f5f5;
+  height: 40px;
+}
+.header,
+.footer,
+.navigation {
+  max-width: 61.875em;
+  margin: auto;
+  overflow: hidden;
+}
+/*======================= Header =======================*/
+.header-wrapper {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+/*---------- LOGO ---------- */
+.logo {
+  float: left;
+  width: 34.64646464646465%;
+  height: 73px;
+  margin-right: 2.3958333333333335%;
+  margin-top: 20px;
+}
+.logo h1 a img {
+  max-width: 100%;
+}
+.widget-right {
+  width: 23.232323232323232%;
+  float: right;
+}
+.widget-right .login-panel {
+  margin: 0;
+  overflow: hidden;
+  width: 57.391304347826086%;
+  height: 28px;
+  float: right;
+  background: #f8f8f8;
+  margin-bottom: 20px;
+}
+.widget-right .login-panel ul {
+  margin: 0;
+  background: url(../images/login-icon.png) no-repeat 5% center;
+  padding-left: 19%;
+  float: left;
+  width: 100%;
+}
+.widget-right .login-panel ul li {
+  float: left;
+  background: transparent url(../images/header-nav-divider.png) no-repeat center right;
+  padding: 0 5%;
+}
+.widget-right .login-panel ul li a {
+  color: #353535;
+  font: 12px/28px Arial, Helvetica, sans-serif;
+}
+.widget-right .login-panel ul li a:hover {
+  color: #f35723;
+}
+.widget-right .login-panel ul li.last {
+  background: none;
+  padding-right: 0;
+}
+.widget-right .social-network {
+  float: right;
+  clear: both;
+  width: 27.391304347826086%;
+  margin-bottom: 10px;
+}
+.widget-right .social-network ul {
+  margin: 0;
+  overflow: hidden;
+}
+.widget-right .social-network ul li {
+  float: left;
+  padding: 0 10%;
+  overflow: hidden;
+}
+.widget-right .social-network ul li a.fb {
+  background: url(../images/facebook-icon.png) no-repeat;
+  height: 22px;
+  text-indent: -99999px;
+  display: block;
+  width: 22px;
+}
+.widget-right .social-network ul li a.fb:hover {
+  background: url(../images/facebook-hover-icon.png) no-repeat;
+}
+.widget-right .social-network ul li a.tt {
+  background: url(../images/twitter-icon.png) no-repeat;
+  height: 22px;
+  text-indent: -99999px;
+  display: block;
+  width: 22px;
+}
+.widget-right .social-network ul li a.tt:hover {
+  background: url(../images/twitter-hover-icon.png) no-repeat;
+}
+.widget-right .social-network ul li.last {
+  padding-right: 0;
+}
+.widget-right span a {
+  float: right;
+  font: 18px Arial, Helvetica, sans-serif;
+  color: #FFF;
+}
+/*======================= BANNER =======================*/
+.banner-container-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+.banner-container-wrapper .banner-container {
+  max-width: 61.875em;
+  margin: 0 auto;
+}
+.banner-container-wrapper .banner-container img {
+  max-width: 100%;
+}
+/*======================= FOOTER =======================*/
+.footer-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+.footer {
+  background: #565656;
+  max-width: 61.875em;
+  margin: 0 auto;
+  border-radius: 0 0 5px 5px;
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -o-border-radius: 0 0 5px 5px;
+  -ms-border-radius: 0 0 5px 5px;
+  padding: 30px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.footer-left {
+  float: left;
+  width: 65.80645161290323%;
+}
+.footer-right {
+  float: right;
+  width: 32.043010752688176%;
+}
+/*---------- FOOTER MENU ----------*/
+ul.footer-menu {
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #898989;
+  padding-bottom: 20px;
+  margin-bottom: 35px;
+  margin-top: 20px;
+}
+ul.footer-menu li {
+  float: left;
+  overflow: hidden;
+  padding: 0 5.392156862745098%;
+  background: transparent url(../images/footer-nav-divider.png) no-repeat right center;
+}
+ul.footer-menu li a {
+  font: 15px/20px Arial, Helvetica, sans-serif;
+  display: block;
+  color: #dddddd;
+}
+ul.footer-menu li a:hover {
+  color: #f5f5f5;
+}
+ul.footer-menu li.first {
+  padding-left: 0;
+}
+ul.footer-menu li.last {
+  padding-right: 0;
+  background: none;
+}
+/*---------- COPYRIGHT ----------*/
+.copyright {
+  clear: both;
+  color: #D1D1D1;
+  float: left;
+  font: 12px Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+.footer-right-content {
+  width: 100%;
+  overflow: hidden;
+  background: #727272;
+  padding: 10px 6.7114093959731544%;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.footer-right-content span {
+  font: 15px Arial, Helvetica, sans-serif;
+  color: #FFF;
+  margin-bottom: 15px;
+  display: block;
+}
+.footer-right-content a {
+  font-size: 12px;
+  margin-bottom: 10px;
+  display: block;
+}
+.footer-right-content span.phone {
+  font-size: 22px;
+  color: #FFF;
+}
+.footer-right-content span.phone span {
+  color: #f35723;
+  font-size: 22px;
+  float: left;
+}

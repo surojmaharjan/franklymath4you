@@ -1,0 +1,273 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+/* 960px Grid */
+/* Tools Variables */
+/* Indents Variables */
+/* Margin Variables */
+/* Cursor Variables */
+/* Color Variables */
+/*Hover*/
+/*avtive*/
+/* Width Variables */
+/*Fonts*/
+/*Mizins*/
+.border-box {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+/*======================= BLOCK =======================*/
+.block {
+  border-bottom: 1px solid #cbcbcb;
+  padding: 20px 0;
+}
+.block h1 {
+  margin-bottom: 24px;
+}
+.block h2 {
+  margin-bottom: 15px;
+}
+/*======================= BLOCK WELCOME =======================*/
+.block-welcome {
+  width: 100%;
+  overflow: hidden;
+}
+.block-welcome .block-content {
+  overflow: hidden;
+}
+.block-welcome .block-content p {
+  margin-bottom: 20px;
+}
+.block-welcome .block-content ul {
+  width: 100%;
+  overflow: hidden;
+}
+.block-welcome .block-content ul li {
+  display: inline-block;
+  background: url(../images/list-1.png) no-repeat left center;
+  padding-left: 3%;
+  font: 13px Arial, Helvetica, sans-serif;
+  width: 49%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  margin-bottom: 10px;
+  color: #3c3c3c;
+}
+.block-welcome .block-content ul li.last {
+  margin-bottom: 0;
+}
+/*======================= BLOCK IMAGE =======================*/
+.block-start {
+  width: 100%;
+  overflow: hidden;
+}
+.block-start .block-content .img-container {
+  float: left;
+  width: 50.326797385620914%;
+}
+.block-start .block-content .img-container img {
+  max-width: 100%;
+}
+.block-start .block-content .text {
+  width: 44.28104575163399%;
+  float: right;
+}
+.block-start .block-content .text p {
+  margin-bottom: 15px;
+}
+.block-start .block-content .text a {
+  font-weight: bold;
+  font-size: 12px;
+}
+/*======================= BLOCK QUESTION =======================*/
+.block-question {
+  width: 100%;
+  overflow: hidden;
+  border-bottom: none !important;
+}
+.block-question .block-title {
+  overflow: hidden;
+}
+.block-question .block-title p {
+  font-size: 11px;
+  line-height: 18px;
+}
+.block-question .block-content {
+  width: 100%;
+  overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper {
+  width: 100%;
+  background: #cbcbcb;
+  padding: 10px 4.026845637583893%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container {
+  width: 100%;
+  background: #f8f8f8;
+  padding-bottom: 10px;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container form {
+  background: #f8f8f8;
+  width: 100%;
+  padding: 10px 3.6363636363636362%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container form p {
+  display: block;
+  width: 100%;
+  font: 12px Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+  overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .note {
+  font-size: 11px;
+}
+.block-question .block-content .form-container-wrapper .form-container form p label {
+  width: 100%;
+  color: #414141;
+  display: block;
+  margin-bottom: 3px;
+}
+.block-question .block-content .form-container-wrapper .form-container form p label span {
+  color: #ec1111;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .text-wrapper {
+  width: 100%;
+  border: 1px solid #cbcbcb;
+  background: #ececec;
+  height: 24px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  padding: 5px 2.0408163265306123%;
+  display: block;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .text-wrapper input[type='text'] {
+  font: 10px Arial, Helvetica, sans-serif;
+  width: 100%;
+  color: #8c8c8c;
+  background: none;
+  border: none;
+  outline: none;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .textarea-wrapper {
+  width: 100%;
+  border: 1px solid #cbcbcb;
+  background: #ececec;
+  height: 63px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  padding: 5px 2.0408163265306123%;
+  display: block;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .textarea-wrapper textarea {
+  font: 10px Arial, Helvetica, sans-serif;
+  width: 100%;
+  color: #8c8c8c;
+  background: none;
+  border: none;
+  outline: none;
+  max-height: 53px;
+  min-height: 63px;
+  overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper .form-container form p input[type='submit'] {
+  background: #f35723;
+  width: 33.81818181818182%;
+  height: 29px;
+  font: bold 15px/29px Arial, Helvetica, sans-serif;
+  color: #FFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  right: 3.6363636363636362%;
+}
+.block-works {
+  border-bottom: none !important;
+}
+.block-works h1 {
+  border-bottom: 1px solid #cbcbcb;
+  padding-bottom: 25px;
+}
+.block-works h3 {
+  color: #3c3c3c;
+  font: bold 13px Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+.block-works ol li {
+  width: 100%;
+  margin-bottom: 15px;
+  clear: both;
+  overflow: hidden;
+}
+.block-works ol li span {
+  font: bold 13px Arial, Helvetica, sans-serif;
+  float: left;
+  width: 95.09803921568627%;
+}
+.block-works ol li em {
+  color: #f35723;
+}
+.block-works ol li span.number {
+  float: left;
+  width: 4.901960784313726%;
+  font: bold 13px Arial, Helvetica, sans-serif;
+}
+.block-works ol li p {
+  font-size: 12px;
+}
+.block-works ol li span.list-icon {
+  background: url(../images/list-icon.png) no-repeat left center;
+  width: 16px;
+  height: 15px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.block-works ol li.last a {
+  background: #f35723;
+  color: #000000;
+  font: bold 13px Arial, Helvetica, sans-serif;
+  padding: 2px 5px;
+}
+.block-image {
+  overflow: hidden;
+  border-bottom: none !important;
+}
+.block-image img {
+  float: right;
+  max-width: 100%;
+}
+.custom-margin {
+  margin-top: -15px;
+  margin-left: -5px;
+}
+.custom-margin-2 {
+  margin-bottom: 15px;
+}

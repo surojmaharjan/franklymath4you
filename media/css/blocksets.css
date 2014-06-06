@@ -1,0 +1,508 @@
+.ml-1{margin-left:667px !important;}
+.w-100{width:100% !important}
+/*======================= BLOCK =======================*/
+.block {
+	border-bottom: 1px solid #cbcbcb;
+	padding: 20px 0;
+}
+.block h1 {
+	margin-bottom: 24px;
+}
+.block h2 {
+	margin-bottom: 15px;
+}
+/*======================= BLOCK WELCOME =======================*/
+.block-welcome {
+	width: 100%;
+	overflow: hidden;
+}
+.block-welcome .block-content {
+	overflow: hidden;
+}
+.block-welcome .block-content p {
+	margin-bottom: 20px;
+}
+.block-welcome .block-content .img-container {
+	float: left;
+	width: 30.259067357512954%;
+	margin-right: 2.5906735751295336%;
+}
+.block-welcome .block-content .img-container img {
+	max-width: 100%;
+}
+.block-welcome .block-content ul {
+	width: 25.699481865284973%;
+	float: left;
+	overflow: hidden;
+	margin-right: 9.844559585492227%;
+}
+.block-welcome .block-content ul li {
+	display: block;
+	background: url(../images/list-1.png) no-repeat left 5px;
+	padding-left: 15px;
+	font: 15px Arial, Helvetica, sans-serif;
+	width: 100%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	margin-bottom: 10px;
+	color: #3c3c3c;
+}
+.block-welcome .block-content ul li.last {
+	margin-bottom: 0;
+}
+.block-welcome .block-content ul.text {
+	margin-right: 0 !important;
+	margin-top: 10px;
+	width: 66.358%;
+     text-align: justify;
+}
+/*======================= BLOCK IMAGE =======================*/
+.block-start {
+	width: 100%;
+	overflow: hidden;
+}
+.block-start .block-content .img-container {
+	float: left;
+	width: 30.259067357512954%;
+}
+.block-start .block-content .img-container img {
+	max-width: 100%;
+}
+.block-start .block-content .text {
+	width: 44.28104575163399%;
+	float: right;
+}
+.block-start .block-content .text p {
+	margin-bottom: 15px;
+}
+.block-start .block-content .text a {
+	font-weight: bold;
+	font-size: 14px;
+}
+/*======================= BLOCK QUESTION =======================*/
+.block-question {
+	overflow: hidden;
+	float: left;
+	border-bottom: none !important;
+	width:100%;
+}
+
+.login .block-question {
+    padding: 0 0 20px;
+    width: 60%;
+	margin:0 !important;
+}
+.login .form-container-wrapper {
+    padding: 10px !important;
+}
+.block-question .block-title {
+	overflow: hidden;
+}
+.block-question .block-title p {
+	font-size: 13px;
+	line-height: 18px;
+}
+.block-question .block-content {
+	width: 100%;
+	overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper, .block-register .block-content .form-container-wrapper {
+	width: 100%;
+	background: #cbcbcb;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.block-register .block-content .form-container-wrapper, .block-register .block-content .form-container-wrapper {
+	width: 100%;
+	background: #cbcbcb;
+	padding: 10px 1.027%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container, .block-register .block-content .form-container-wrapper .form-container {
+	width: 100%;
+	background: #f8f8f8;
+	position: relative;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container form, .block-register .block-content .form-container-wrapper .form-container form {
+	background: #f8f8f8;
+	width: 100%;
+	padding: 20px 3.6363636363636362%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.block-question .block-content .form-container-wrapper .form-container form p {
+	display: block;
+	width: 100%;
+	font: 14px Arial, Helvetica, sans-serif;
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper .form-container form p select{ background: none repeat scroll 0 0 #ECECEC;
+    border: 1px solid #CBCBCB; padding:3px;}
+.block-register .block-content .form-container-wrapper .form-container form p {
+	display: inline-block;
+	width: 100%;
+	font: 14px Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .note {
+    float: left;
+    font-size: 13px;
+    clear: both;
+    margin-left: 183px;
+    width: 100%;
+}
+.block-register .block-content .form-container-wrapper .form-container form p .note{float:left; margin-bottom:10px;width:100%;}
+.block-question .block-content .form-container-wrapper .form-container form p label {
+	color: #414141;
+    float: left;
+    margin-bottom: 3px;
+    width: 20%;
+	text-align:right;
+	margin-right:2%;
+}
+.block-register .block-content .form-container-wrapper .form-container form p label {
+	color: #414141;
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 2%;
+    text-align: right;
+    width: 20%;
+}
+.block-question .block-content .form-container-wrapper .form-container form p label span, .block-register .block-content .form-container-wrapper .form-container form p label span {
+	color: red;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .text-wrapper {
+	background: none repeat scroll 0 0 #ECECEC;
+    border: 1px solid #CBCBCB;
+    float: left;
+    height: 24px;
+    padding: 5px 2.04082%;
+    width: 30%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.block-register .block-content .form-container-wrapper .form-container form p .text-wrapper {
+	width: 40%;
+	border: 1px solid #cbcbcb;
+	background: #ececec;
+	height: 24px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	padding: 5px 2.0408163265306123%;
+	float:left;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .text-wrapper input[type='text'], .block-register .block-content .form-container-wrapper .form-container form p .text-wrapper input[type='text'], .block-question .block-content .form-container-wrapper .form-container form p .text-wrapper input[type='password'], .block-register .block-content .form-container-wrapper .form-container form p .text-wrapper input[type='password'] {
+	font: 12px Arial, Helvetica, sans-serif;
+	width: 100%;
+	color: #8c8c8c;
+	background: none;
+	border: none;
+	outline: none;
+}
+
+.block-register select {
+	border: 1px solid #cbcbcb;
+	background: #ececec;
+    line-height: 20px;
+    outline: medium none;
+	font: 12px Arial, Helvetica, sans-serif;
+    padding: 5px;
+    width: 40%;
+	color:#8c8c8c;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .textarea-wrapper {
+	width: 30%;
+	border: 1px solid #cbcbcb;
+	background: #ececec;
+	height: 80px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	padding: 5px 2.0408163265306123%;
+	float:left;
+}
+.block-register .block-content .form-container-wrapper .form-container form p .textarea-wrapper {
+	width: 40%;
+	border: 1px solid #cbcbcb;
+	background: #ececec;
+	height: 63px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	padding: 5px 2.0408163265306123%;
+	float:left;
+}
+.block-question .block-content .form-container-wrapper .form-container form p .textarea-wrapper textarea {
+	font: 12px Arial, Helvetica, sans-serif;
+	width: 100%;
+	color: #8c8c8c;
+	background: none;
+	border: none;
+	outline: none;
+	max-height: 53px;
+	min-height: 63px;
+	overflow: hidden;
+}
+.block-register .block-content .form-container-wrapper .form-container form p .textarea-wrapper textarea {
+	font: 12px Arial, Helvetica, sans-serif;
+	width: 100%;
+	color: #8c8c8c;
+	background: none;
+	border: none;
+	outline: none;
+	max-height: 53px;
+	min-height: 63px;
+	overflow: hidden;
+	float:left
+}
+.block-question .block-content .form-container-wrapper .form-container form p input[type='submit'], .block-register .block-content .form-container-wrapper .form-container form p input[type='submit'] {
+	background: #f35723;
+	width: 17.818%;
+	height: 29px;
+	font: bold 17px/29px Arial, Helvetica, sans-serif;
+	color: #FFF;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	float:right;
+	margin-right: 25px;
+}
+.block-question .block-content .form-container-wrapper .form-container form p input[type='submit'].button {
+	background: url(../images/button-bg.png) repeat-x;
+	width: 100%;
+	display: block;
+	position: static;
+}
+.block-question .block-content .form-container-wrapper .form-container form p.last {
+	margin-bottom: 0;
+}
+
+/* Block Works */
+.block-works {
+	border-bottom: none !important;
+}
+.col1-layout .block-works{float:left; width:66%; margin-right:2%; }
+.col1-layout .block-question{float:left;}
+.forwhom.block-works strong{font:bold 15px/1 Arial, Helvetica, sans-serif; color:#3c3c3c; margin-bottom:15px; display:block}
+.home .block-question{margin-top:0}
+.block-works h1 {
+	border-bottom: 1px solid #cbcbcb;
+	padding-bottom: 25px;
+}
+.forwhom.block-method hr{width:64%; margin-bottom:15px; background:#cbcbcb; border:none;height:1px;}
+.block-works h3 {
+	color: #3c3c3c;
+	font: bold 15px Arial, Helvetica, sans-serif;
+	margin-bottom: 15px;
+}
+.block-works ol li, .forwhom.block-method ol li {
+	width: 100%;
+	margin-bottom: 15px;
+	clear: both;
+	overflow: hidden;
+}
+.block-works ol li span, .forwhom.block-method ol li span {
+	font: normal 15px Arial, Helvetica, sans-serif;
+	width: auto;
+}
+.forwhom.block-method ol li span{font-weight:bold;}
+.block-works ol li em, .forwhom.block-method ol li em {
+	color: #f35723;
+}
+.block-works ol li span.number, .forwhom.block-method ol li span.number {
+	float: left;
+	padding-right: 5px;
+     width: auto;
+	font: bold 15px Arial, Helvetica, sans-serif;
+}
+.block-works ol li p, .forwhom.block-method ol li p {
+	font-size: 17px;
+}
+
+.forwhom.block-method ol li p {
+    clear: both;
+    margin: 15px 0 0 72px;
+	float:left
+}
+.block-works ol li span.list-icon, .forwhom.block-method ol li span.list-icon {
+	background: url(../images/list-icon.png) no-repeat left center;
+	width: 16px;
+	height: 15px;
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 5px;
+     float: left;
+}
+.block-works ol li span.note{margin-top:10px;}
+.block-works ol li.last a {
+	background: #f35723;
+	color: #000000;
+	font: bold 15px Arial, Helvetica, sans-serif;
+	padding: 2px 5px;
+}
+.block-image {
+	overflow: hidden;
+	border-bottom: none !important;
+}
+.block-image img {
+	float: right;
+	max-width: 100%;
+}
+.custom-margin {
+	margin-top: -15px;
+	margin-left: -5px;
+}
+.custom-margin-2 {
+	margin-bottom: 15px;
+}
+.col-right .block-question{width:100%; margin-top:67px;}
+
+.block-method{
+	width:100%;
+	overflow:hidden;
+	clear:both;
+}
+.forwhom.block-method strong{color:#3C3C3C}
+.block-method  .block-header h1{
+	text-transform:uppercase;
+	font-size:25px;
+	font-family:"oswaldbook";
+	color:#f35723;
+	margin-bottom:12px;
+}
+.block-method  .block-header hr{
+	border:none;
+	width:75%;
+	height:1px;
+	background:#d7d7d7;
+	float:left;
+	margin-bottom:20px;
+}
+.block-method .block-content {clear:both;}
+.about .block{padding-bottom:0}
+.block-method .block-content strong{
+	font:bold 15px/18px Arial, Helvetica, sans-serif;
+	color:#000000;
+	clear:both;
+	margin-bottom:10px;
+	display:block
+}
+.block-method .block-content h2{font:bold 13px/1 Arial, Helvetica, sans-serif; color:#f35723; margin-bottom:15px;}
+.block-method .block-content p{
+	font:normal 15px/18px Arial, Helvetica, sans-serif;
+	color:#090909;
+	margin-bottom:15px;
+}
+.block-method .block-content p span{font-weight:bold;}
+.block-method .block-content p a{font:bold 15px/1 Arial, Helvetica, sans-serif; color:#f35723; text-decoration:underline\; }
+.block-method .block-content form p{float:left; margin-right:2%;}
+.block-method .block-content form p input[type='submit']{
+	background: url(../images/button-bg.png) repeat-x;
+	width:250px;
+	color:#FFF;
+	cursor:pointer;
+	display:block;
+	height:30px;
+	font-weight:bold
+}
+
+.buttonlink{
+    background: url("../images/button-bg.png") repeat-x scroll 0 0 transparent;
+    border: medium none;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    display: block;
+    font: bold 16px/29px Arial,Helvetica,sans-serif !important;
+    height: 29px;
+    outline: medium none;
+    position: static;
+    text-align: center;
+    width: 100%;
+}
+
+.page-title{
+    border-bottom: 1px solid #CBCBCB;
+    height: 20px;
+    margin-bottom: 10px;
+    padding: 20px 0;
+}
+
+.user-form{
+    margin: 0 !important;
+    padding: 0 0 20px;
+    width: 100%;
+}
+
+.upload-block{
+	background: none repeat scroll 0 0 #ECECEC;
+    border: 1px solid #CBCBCB;
+    display: block;
+	padding:20px;
+    float: left;
+    width: 70%;
+}
+.upload-block .browse{  
+   float: right;
+   width: 230px;
+}
+.upload-block input[type='file']{display:block; margin-bottom:10px;}
+.upload-block input[type='submit'].upload{clear: both;
+    float: right !important;
+    margin-right: 0 !important;
+    width: 235px !important;
+	background:url(../images/upload-bg.png) repeat-x !important;
+	height:26px !important;
+	line-height:26px !important}
+.upload-block .upload-block-text{background:#f8f8f8; border:1px solid #cbcbcb; display:block; padding:4px; font:13px/15px Arial, Helvetica, sans-serif; color:#8f8f8f; margin-bottom:20px;}
+
+
+.ask .form-container > h2 {
+    margin: 0;
+    padding: 20px;
+}
+.ask form input[type="submit"] {
+    float: left !important;
+    margin-left: 290px;
+}
+
+.box {
+    margin-top: 67px;
+    width: 32%;
+}
+
+.error_msg{
+   color: red !important;
+   text-align: center;
+}

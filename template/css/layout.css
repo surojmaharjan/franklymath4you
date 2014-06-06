@@ -1,0 +1,45 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+/* 960px; */
+/* Tools Variables */
+/* Margin Variables */
+/* Color Variables */
+/* Width Variables */
+.border-box {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.main-container-wrapper {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 2px;
+}
+.main-container-wrapper .main-container {
+  max-width: 61.875em;
+  margin: 0 auto;
+  background: #e8e8e8 url(../images/main-container-bg.png) repeat-x;
+  overflow: hidden;
+  padding: 0 30px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+/*======================= COL2-RIGHT-LAYOUT =======================*/
+.col2-right-layout {
+  width: 100%;
+}
+.col2-right-layout .main {
+  width: 65.80645161290323%;
+  float: left;
+}
+.col2-right-layout .main .col-main {
+  width: 100%;
+}
+.col2-right-layout .col-right {
+  width: 32.043010752688176%;
+  float: right;
+}
