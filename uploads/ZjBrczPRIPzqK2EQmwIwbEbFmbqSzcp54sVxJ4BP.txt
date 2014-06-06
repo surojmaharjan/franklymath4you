@@ -1,0 +1,9 @@
+<h3>Welcome to the Ladies Car Advocate!</h3>
+<p>We are here to help empower you in your choices on car maintenance. That’s right, I did say choices. Every time you take your car in for service, whether it be for a quick oil change or a complete engine rebuild, you have a choice in what costs and time are involved in your automotive repair work.</p>
+<p>We will teach you how to make the best decisions on your automotive repair work based on three very important criteria.</p>
+<p>Your budget, your mileage and how long you want to keep your car.</p>
+<p>No, you do not need to know how to change the oil, or why a timing belt is important to your car's smooth performance. All you need to do is follow our chart and answer the questions:</p>
+<h6>What is your Budget?</h6>
+<h6>What is your current mileage?&gt;</h6>
+<h6>How long do you want to keep your car?</h6>
+<p><em>Register today and empower yourself. Walking out of an automobile repair shop will never be the same… once you empower yourself!</em></p>
